@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<archiveFiles>
+    <archiveFile>
+        <id>1</id>
+        <code>1AH931</code>
+        <student>
+            <id>1</id>
+            <name>John</name>
+            <surname>Casper</surname>
+            <age>18</age>
+        </student>
+    </archiveFile>
+    <archiveFile>
+        <id>2</id>
+        <code>5BN871</code>
+        <student>
+            <id>2</id>
+            <name>Alex</name>
+            <surname>Forest</surname>
+            <age>19</age>
+        </student>
+    </archiveFile>
+    <archiveFile>
+        <id>3</id>
+        <code>1MS171</code>
+        <student>
+            <id>3</id>
+            <name>Mary</name>
+            <surname>Stone</surname>
+            <age>17</age>
+        </student>
+    </archiveFile>
+</archiveFiles>
